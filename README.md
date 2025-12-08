@@ -1,2 +1,2 @@
 # nuwa-jump
-Repo for Greek Myths final project.
+repo for Greek Myths final project.
