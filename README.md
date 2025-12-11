@@ -1,4 +1,4 @@
-# The Flying Head Game
+# Nuwa Patches the Skies Game
 
 A video game inspired by the Nuwa myth and Doodle Jump. Collect the mythical objects to patch the skies and save humanity.
 
