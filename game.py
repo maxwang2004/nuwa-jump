@@ -200,7 +200,7 @@ def show_home_screen(screen, font, lore_font):
 def game_loop():
     pygame.init()
     screen = pygame.display.set_mode((WIDTH, HEIGHT))
-    pygame.display.set_caption("Nuwa's Ascent")
+    pygame.display.set_caption("Nuwa Jump")
     clock = pygame.time.Clock()
     
     load_assets()
