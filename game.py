@@ -175,8 +175,8 @@ def show_home_screen(screen, font, lore_font):
     screen.blit(title, (WIDTH//2 - title.get_width()//2, 60))
 
     lore_text = (
-        "The heavens are shattered.\n\n"
-        "You are Nuwa.\n\n"
+        "The conflict between Gonggong and Zhurong has shattered the heavens.\n\n"
+        "You are Nuwa, creator deity and mother of humanity.\n\n"
         "Ascend to gather:\n"
         "1. The Five Colored Stones\n"
         "2. The Leg of the Great Turtle Ao\n\n"
